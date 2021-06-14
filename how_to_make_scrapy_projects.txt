@@ -1,0 +1,2 @@
+install scrapy
+scrapy startporject <project_name>
