@@ -1,2 +1,6 @@
 install scrapy
 scrapy startporject <project_name>
+
+
+start a shell:
+scrapy shell "<website>"
