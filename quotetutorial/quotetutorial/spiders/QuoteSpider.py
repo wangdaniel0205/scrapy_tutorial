@@ -1,5 +1,7 @@
 import scrapy
 
+# How to export:::     A:\files\scrapy_tutorial\quotetutorial>scrapy crawl quotes -o item.json
+
 class QuoteSpider(scrapy.Spider):
     name = 'quotes'
     start_urls = [
